@@ -1,4 +1,4 @@
-# hungry live [Live](https://myhungryrestro.vercel.app/)
+# hungry [Live](https://myhungryrestro.vercel.app/)
 Restaurant Food Ordering Application (Ref: Dominos Pizza, PizzaHut, OvenStory, Wow Momo)
 
 # Description:
